@@ -198,7 +198,9 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
 #EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo1.png" group-title="Bangla News",Nagorik
 http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
-#EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="Bangla News",Boishakhi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla Channels",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="Bangla News",Boishakhi TV(backup)
 http://163.172.29.246:8081/globalbd/boishakhi/chunks.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla News",Mytv
 http://103.205.133.48/hls/mytv.m3u8

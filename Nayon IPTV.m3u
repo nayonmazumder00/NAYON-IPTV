@@ -122,11 +122,11 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience(src07).in(m3u4u)" tvg-name="Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
 http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="discovery hindi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Discovery Hindi 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="discovery hindi" tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="Infotainment",Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery  sd bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment",Discovary-Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery  sd bangla" tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="Infotainment",Discovary-Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery english" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Discovary ENG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="discovery english" tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png",Discovary ENG
 https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/200px-Discovery_Turbo.png" group-title="Infotainment",Discovary Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
@@ -142,7 +142,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/DSPORT_Logo_2017.jpg/220px-DSPORT_Logo_2017.jpg" group-title="Sports",,DSPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Sony Ten 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg",Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
@@ -156,89 +156,91 @@ http://103.205.133.48/hls/chss2.m3u8
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-16.png" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-14.png" group-title="Sports",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Geo_Super_Old.png/revision/latest/scale-to-width-down/120?cb=20111001230224" group-title="Sports",Geo Super HD
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GEO SUPPER TV" tvg-logo="https://image.winudf.com/v2/image/Y29tLmdhcHBsZS5nZW9zdXBlcl9pY29uXzE1MjYwMzYyOTRfMDYx/icon.png?w=340&fakeurl=1" group-title="Sports",Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,REAL MADRID TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madried TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Realmadrid-TV.jpg/220px-Realmadrid-TV.jpg" group-title="Sports",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,Bein Sports Extra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein sports Xtra" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:24,Disney
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/10/Disney-Channel.jpg" group-title="Cartoon",Disney
 http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:24,Disney HD
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://i.pinimg.com/originals/96/ee/5f/96ee5f700da7a177c40262231f650467.png" group-title="Cartoon",Disney HD
 http://streamer1.furrera.ps:80/OSN_Disney/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:24,Disney Junior
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Cartoon",Disney Junior
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:24,Disney XD
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Cartoon",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8
-#EXTINF:24,Cartoon Network
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon",Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla News",BTV World
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangladeshi",BTV World
 http://103.205.133.48/hls/btvworld.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288",Sangsadtv
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288",Gaanbangla
 http://103.205.133.48/hls/gaanbangla.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",Gazi TV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",Gazi TV(backup)
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV(backup)
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla News",ATN Bangla
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla
 http://103.205.133.48/hls/atnbangla.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
 http://103.205.133.48/hls/atnnews.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV
 http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Duronto TV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangla News",Independent
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangladeshi",Independent
 http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
-#EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo1.png" group-title="Bangla News",Nagorik
+#EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo1.png" group-title="Baangladeshi,Nagorik
 http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla Channels",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/200px-Boishakhi_TV_logo.svg.png" group-title="Bangla News",Boishakhi TV(backup)
 http://163.172.29.246:8081/globalbd/boishakhi/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla News",Mytv
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladeshi",Mytv
 http://103.205.133.48/hls/mytv.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s320/bangla-vision-news.jpg" group-title="Bangla News",Banglavision
 http://103.205.133.48/hls/banglavision.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangla News",CHANNEL 24
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24
 http://103.205.133.48/hls/channel24.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Bangla News",Channel 9
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi,Channel 9
 http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla News",Desh TV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangladeshi",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla News",Deepto TV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangladeshi",Deepto TV
 http://103.205.133.48/hls/deeptotv.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla News",JAMUNA TV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi",JAMUNA TV
 http://103.132.180.245:8080/13/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla News",JAMUNA TV(backup)
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi",JAMUNA TV(backup)
 http://163.172.29.246:8081/globalbd/jamunatv/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangla News",Channel I
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladeshi",Channel I
 http://103.205.133.48/hls/ichannel.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla News",Maasranga
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla News",Maasranga (backup)
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga (backup)
 http://163.172.29.246:8081/globalbd/maasranga/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="Bangla News",SATV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="Bangladeshi",SATV
 http://103.205.133.48/hls/satv.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangla News",RTV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangladeshi",RTV
 http://103.132.180.245:8080/11/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla News",NTV
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangladeshi",NTV
 http://103.205.133.48/hls/ntv.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangla News",DBC News
-http://103.132.180.245:8080/2/index.m3u8
-#EXTINF:0tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangla News",News 24
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladeshi",DBC News
+http://103.132.180.245:8080/2/angladeshi
+#EXTINF:0tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladeshi",News 24
 http://103.205.133.48/hls/news24.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla News",Ekattor
+#EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor
 http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangla News",SOMOY TV
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV
 http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangla News",RTV Music
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladeshi",RTV Music
 http://103.132.180.245:8080/14/index.m3u8
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangla News",T Sports HD FTP
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD FTP
 http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD
+http://45.127.244.7:8080/hls/channel2.m3u8

@@ -19,7 +19,7 @@ http://103.147.182.221:9198/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Shows & Series",Zee Bangla chinema(backup)
 http://163.172.29.246:8081/globalbd/zeebanglacinema/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
-https://rhridoy136.shortcm.li/starjalshamovieshd.m3u8
+http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath
@@ -145,7 +145,7 @@ http://103.147.182.221:9198/TLC-TV/tracks-v1a1/mono.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="ALzazira" tvg-logo="http://15.1.1.10/img/channels/aljazeera.png" group-title="INDIA (New)",Al-ZAZIRA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="http://15.1.1.10/img/channels/bbcnews.png" group-title="INDIA (New)",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://203.162.235.41:16917
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="News",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="News", CNA

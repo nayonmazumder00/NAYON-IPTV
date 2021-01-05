@@ -281,7 +281,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor(backup)
 http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.m3u8
+http://103.205.133.20/hls/somoy.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV(backup)
 http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangladeshi",RTV Music

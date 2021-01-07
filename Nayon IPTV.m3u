@@ -106,13 +106,13 @@ https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/220px-SET_India.jpg" group-title="INDIA (New)",Sony
 http://103.205.133.20/hls/chs.m3u8
 
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="" group-title="INDIA (New)",Sony HD
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="http://tv.thunderbd.com/assets/images/sony.png" group-title="INDIA (New)",Sony HD
 http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Indian Hindi",Sony Sab
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Sony Sab HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="http://tv.thunderbd.com/assets/images/sonysab.png" group-title="Indian Hindi",Sony Sab HD
 http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60037
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="INDIA",Star Plus
@@ -163,7 +163,7 @@ http://208.115.215.42/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Indian Hindi",Zee Action
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Wow Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://indeltv.in/wp-content/uploads/2019/02/wow-cinema.png" group-title="Indian Hindi",Wow Cinema
 http://103.205.133.20/hls/wowcinema.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.zee.com/wp-content/uploads/2020/04/Zee-Anmol-Cinema.jpg" group-title="Indian Hindi",Zee Anmole

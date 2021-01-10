@@ -247,13 +247,16 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/144px-TLC-Logo_2016.svg.png" group-title="Infotainment",TLC-ENG
 http://103.147.182.221:9198/TLC-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="ALzazira" tvg-logo="http://15.1.1.10/img/channels/aljazeera.png" group-title="INDIA (New)",Al-ZAZIRA
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="ALzazira" tvg-logo="http://15.1.1.10/img/channels/aljazeera.png" group-title="World News",Al-ZAZIRA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="http://15.1.1.10/img/channels/bbcnews.png" group-title="INDIA (New)",BBC World News
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="http://15.1.1.10/img/channels/bbcnews.png" group-title="World",BBC World News
 http://203.162.235.41:16917
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="News",FOX NEWS
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="World News",DW News
+http://103.147.182.221:9198/DW-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="World News",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="News", CNA

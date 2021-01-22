@@ -452,7 +452,7 @@ https://rhridoy136.shortcm.li/rtvmusic.m3u8
 http://otv.ftpbd.net/streams/108/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD
-http://45.127.244.7:8080/hls/channel2.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD(backup)
 http://103.147.182.221:9198/ADP-IPL/tracks-v1a1/mono.m3u8

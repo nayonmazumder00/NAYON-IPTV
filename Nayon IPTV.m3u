@@ -5,7 +5,7 @@ http://103.205.133.20/hls/chsj.m3u8
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/27.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD (backup)
-http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bcbfccea2643d00.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
@@ -20,7 +20,7 @@ http://103.205.133.21/hls/zeebangla.m3u8
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla SD (backup)
-http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/455581e014d65bb.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Shows & Series",Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8
@@ -58,6 +58,9 @@ http://103.147.182.221:9198/cl/tracks-v1a1/mono.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD(backup)
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="https://pbs.twimg.com/profile_images/1087204202030469121/znke7Dnr.jpg" group-title="Indian Bangla",Sun Bangla
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bb73e56f4a27a47.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Indian Bangla",Khusboo Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 
@@ -79,8 +82,17 @@ http://45.127.244.7:8080/hls/channel12.m3u8
 #EXTINF:-1tvg-id="Enterr10(src07).in(m3u4u)" tvg-name="Enterr 10 Bangla" tvg-logo="http://likeetv.com/uploads/tv_image/sm/sangeet-bangla.jpg" group-title="Shows & Series",Sangit Bangla
 http://103.205.133.20/hls/sangeetbangla.m3u8
 
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/zaubatrademarks/906e3de4-fc51-425b-b891-47dc343d04e3.png" group-title="Indian Bangla",Akash Aat
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/fad426ab48767ce.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/861846223510159360/RXVEWo6W_400x400.jpg" group-title="Indian Bangla",DD Bangla
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2f2e1462e134e4f.m3u8
+
+#EXTINF:0 tvg-logo="https://cutt.ly/cjBjalR" group-title="Indian Bangla",Zee 24 Gonta
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/934b3a2949b3da3.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda [IN]" tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Bangladesh",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 18 Bangla [IN]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="NEWS",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
@@ -437,7 +449,7 @@ http://103.205.133.20/hls/news24.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor(backup)
-http://163.172.29.246:8081/globalbd/ekattor/chunks.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2e9ba97f5ae7b39.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV
 http://103.205.133.20/hls/somoy.m3u8

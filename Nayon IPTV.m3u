@@ -11,7 +11,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bcbfccea26
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD link2
-http://103.147.182.221:9198/starjalsha/tracks-v1a1/mono.m3u8
+http://103.159.4.34:9198/STAR-JALSHA/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
@@ -38,7 +38,7 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 http://163.172.29.246:8081/globalbd/zeebanglacinema/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
-http://45.127.244.7:8080/hls/channel13.m3u8
+http://103.159.4.34:9198/JALSHA-MOVIE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
 http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
@@ -53,7 +53,7 @@ http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 http://45.127.244.7:8080/hls/channel14.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD
-http://103.147.182.221:9198/cl/tracks-v1a1/mono.m3u8
+http://103.159.4.34:9198/COLORS-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD(backup)
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
@@ -125,7 +125,7 @@ http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="http://tv.thunderbd.com/assets/images/sonysab.png" group-title="Indian Hindi",Sony Sab HD
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60037
+http://103.159.4.34:9198/SONY-SAB/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="INDIA",Star Plus
 http://103.205.133.20/hls/chsp.m3u8

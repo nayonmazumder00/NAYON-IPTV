@@ -139,6 +139,9 @@ http://103.205.133.20/hls/chc.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/220px-Zee_TV-2018.png" group-title="Indian Hindi",Zee TV
 http://103.159.4.34:9198/ZEE-TV-HINDE/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/220px-Zee_TV-2018.png" group-title="Indian Hindi",Zee TV(backup)
+http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIAN" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Hindi",Zee Bioskope
 http://210.210.155.35/session/bddddbbc-4503-11eb-8bcf-b6c087dabfa1/qwr9ew/s/s32/01.m3u8
 
@@ -298,6 +301,9 @@ http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony Six HD
 http://103.159.4.34:9198/SONY-SIX/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Sony SIX HD" tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony Six HD(backup)
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="https://e0.365dm.com/20/04/192x192/skysports-sky-sports-cricket_4967063.jpg" group-title="Sports",Sky Sports cricket
 http://103.159.4.34:9198/SKY-SPORTS/tracks-v1a1/mono.m3u8
 
@@ -309,6 +315,9 @@ http://172.16.29.28/hls/sports3.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-4.png" group-title="Sports",Star Sports 1 HD 
 http://otv.ftpbd.net/streams/104/index.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-4.png" group-title="Sports",Star Sports 1 HD(backup)
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-4.png" group-title="Sports",Star Sports 1 HD link2
 http://103.159.4.34:9198/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
@@ -330,6 +339,9 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GEO SUPPER TV" tvg-logo="https://image.winudf.com/v2/image/Y29tLmdhcHBsZS5nZW9zdXBlcl9pY29uXzE1MjYwMzYyOTRfMDYx/icon.png?w=340&fakeurl=1" group-title="Sports",Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GEO SUPPER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Madried TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Realmadrid-TV.jpg/220px-Realmadrid-TV.jpg" group-title="Sports",REAL MADRID TV
 http://103.159.4.34:9198/BEIN-SPORTS-11/tracks-v1a1/mono.m3u8
@@ -412,8 +424,11 @@ http://103.159.4.34:9198/BANGLAVISION-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24
 http://103.205.133.20/hls/channel24.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24(backup)
+http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi",Channel 9
-http://163.172.29.246:8081/globalbd/channel9/chunks.m3u8
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi",Channel 9(backup)
 http://103.147.182.221:9198/ADB-CH9/tracks-v1a1/mono.m3u8

@@ -380,7 +380,7 @@ http://103.205.133.20/hls/atnbangla.m3u8
 http://103.159.4.34:9198/ATN-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
-http://103.205.133.20/hls/atnnews.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV
 http://163.172.29.246:8081/globalbd/asian/chunks.m3u8

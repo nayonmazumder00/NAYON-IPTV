@@ -374,7 +374,7 @@ http://103.205.133.20/hls/disney.m3u8
 http://103.205.133.20/hls/disneyxd.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Cartoon",Discovary Kids
-http://103.205.133.48/hls/discoverykids.m3u8
+http://103.205.133.20/hls/discoverykids.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon",Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
@@ -413,10 +413,10 @@ http://103.205.133.20/hls/asiantv.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangladeshi",Independent
-http://163.172.29.246:8081/globalbd/independent/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:0  tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://nagorik.com/wp-content/themes/nagorik/images/logo1.png" group-title="Baangladeshi",Nagorik
-http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla Channels",BOISHAKHI TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8

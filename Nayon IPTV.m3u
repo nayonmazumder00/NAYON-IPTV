@@ -461,7 +461,7 @@ http://103.159.4.34:9198/JUMUNA-TV/tracks-v1a1/mono.m3u8
 http://103.205.133.20/hls/ichannel.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladeshi",Channel I(backup)
-http://103.147.182.221:9198/ABD-CHANNEL-I/tracks-v1a1/mono.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangladeshi",Maasranga
 http://103.159.4.34:9198/MASSRANGA-TV/tracks-v1a1/mono.m3u8

@@ -160,6 +160,9 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Indian Hindi",And Pictures HD
 http://103.205.133.20/hls/andpicture.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Indian Hindi",And Pictures HD(Ebox)
+http://103.49.168.171:8081/ebox/in_andpictures_hd/chunks.m3u8
+
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/100px-Sony_MAX_logo.svg.png" group-title="Indian Hindi",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
@@ -235,6 +238,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/dhoom_music.jpg" group-title="India Bangla",Dhoom
 http://103.205.133.20/hls/dhoommusic.m3u8
 
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="https://kccl.tv/sites/default/files/Bflix.png" group-title="India Bangla",Bflix MOVIES
+http://103.49.168.171:8081/ebox/in_bflix/chunks.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sonymoviesuk.jpg" group-title="India Bangla",Sony Movies
+http://103.49.168.171:8081/ebox/in_movies_now/chunks.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-10.png" group-title="Infotainment",,National Geographic HD 
 http://otv.ftpbd.net/streams/110/index.m3u8
 
@@ -274,8 +283,14 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/144px-TLC-Logo_2016.svg.png" group-title="Infotainment",TLC-ENG
 http://103.147.182.221:9198/TLC-TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Infotainment",Travel XP
+http://103.49.168.171:8081/ebox/in_sat_max/chunks.m3u8
+
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="ALzazira" tvg-logo="http://15.1.1.10/img/channels/aljazeera.png" group-title="World News",Al-ZAZIRA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="ALzazira" tvg-logo="http://15.1.1.10/img/channels/aljazeera.png" group-title="World News",Al-ZAZIRA(Ebox)
+http://103.49.168.171:8081/ebox/aljazeera_news/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BBC World News" tvg-logo="http://15.1.1.10/img/channels/bbcnews.png" group-title="World",BBC World News
 http://203.162.235.41:16917
@@ -345,6 +360,9 @@ http://103.159.4.34:9198/STAR-SELECT/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-14.png" group-title="Sports",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg" group-title="Sports",Ad Sports 2(Ebox)
+http://103.49.168.171:8081/ebox/adsports2/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png" group-title="Sports",Ad Sports 3(Ebox)
 http://103.49.168.171:8081/ebox/adsports3/chunks.m3u8

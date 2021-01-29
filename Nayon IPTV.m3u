@@ -491,7 +491,7 @@ http://103.205.133.20/hls/news24.m3u8
 http://103.159.4.34:9198/NEWS-24/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
+http://103.49.168.171:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor(backup)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2e9ba97f5ae7b39.m3u8
@@ -514,8 +514,8 @@ http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD(backup)
 http://103.159.4.34:9198/T-SPORTS/index.m3u8
 
-#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 2
-http://103.147.182.221:9198/CDN2-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 2(Ebox)
+http://103.49.168.171:8081/live/tsports/chunks.m3u8?
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 3
 http://172.16.29.28/hls/sports1.m3u8

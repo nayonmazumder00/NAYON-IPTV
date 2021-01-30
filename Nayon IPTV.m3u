@@ -430,6 +430,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV
 http://103.205.133.20/hls/asiantv.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV(Ebox)
+http://103.49.168.171:8081/ebox/bd_asian_tv/chunks.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
@@ -478,8 +481,14 @@ https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangladeshi",Deepto TV
 http://103.205.133.20/hls/deeptotv.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Desh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangladeshi",Deepto TV(Ebox)
+http://103.49.168.171:8081/ebox/bd_deepto/chunks.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi",JAMUNA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi",JAMUNA TV(Ebox)
+http://103.49.168.171:8081/ebox/bd_jamuna/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangladeshi",JAMUNA TV(backup)
 http://103.159.4.34:9198/JUMUNA-TV/tracks-v1a1/mono.m3u8
@@ -511,6 +520,9 @@ http://103.205.133.20/hls/dbcnews.m3u8
 #EXTINF:0 tvg-id="(no  tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladeshi",DBC News link2
 http://103.159.4.34:9198/DBC-NEWS/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="(no  tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangladeshi",DBC News(Ebox)
+http://103.49.168.171:8081/ebox/bd_dbc_news/chunks.m3u8
+
 #EXTINF:0tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladeshi",News 24
 http://103.205.133.20/hls/news24.m3u8
 
@@ -525,6 +537,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2e9ba97f5a
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV
 http://103.205.133.20/hls/somoy.m3u8
+
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV(Ebox)
+http://103.49.168.171:8081/ebox/bd_somoy/chunks.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV(backup)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8

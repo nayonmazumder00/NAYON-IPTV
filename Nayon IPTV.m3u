@@ -448,11 +448,17 @@ http://103.159.4.34:9198/BOISHAKHI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangladeshi",Mytv
 http://103.205.133.20/hls/mytv.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangladeshi",Bangla TV(Ebox)
+http://103.49.168.171:8081/ebox/bd_bangla_tv/chunks.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s320/bangla-vision-news.jpg" group-title="Bangla News",Banglavision
 http://103.205.133.20/hls/banglavision.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s320/bangla-vision-news.jpg" group-title="Bangla News",Banglavision(backup)
 http://103.159.4.34:9198/BANGLAVISION-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s320/bangla-vision-news.jpg" group-title="Bangla News",Banglavision(Ebox)
+http://103.49.168.171:8081/ebox/bd_banglavision/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24
 http://103.205.133.20/hls/channel24.m3u8

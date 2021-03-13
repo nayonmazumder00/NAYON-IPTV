@@ -50,7 +50,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/31.m3u8
 http://103.153.175.254:8080/hls/stream27.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/120px-Sony_Aath_logo.svg.png" group-title="Shows & Series",Sony Aath(backup)
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/33.m3u8
@@ -508,7 +508,7 @@ http://103.205.133.20/hls/asiantv.m3u8
 http://103.49.168.171:8081/ebox/bd_asian_tv/chunks.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="Bangladesh",Duronto TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangladeshi",Independent
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -616,7 +616,7 @@ http://103.159.4.46:8080/NEWS-24/tracks-v1a1/mono.m3u8
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/11.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor(backup)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/2e9ba97f5ae7b39.m3u8
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",SOMOY TV
 http://103.205.133.20/hls/somoy.m3u8
@@ -634,7 +634,7 @@ https://rhridoy136.shortcm.li/rtvmusic.m3u8
 http://otv.ftpbd.net/streams/108/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD
-http://43.251.86.6:8080/hls/channel_1.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD(backup)
 http://103.159.4.38:8080/T-SPORTS/tracks-v1a1/mono.m3u8

@@ -131,11 +131,17 @@ http://103.205.133.20/hls/chs.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="http://tv.thunderbd.com/assets/images/sony.png" group-title="INDIA (New)",Sony HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/38.m3u8
 
+#EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="http://tv.thunderbd.com/assets/images/sony.png" group-title="INDIA (New)",Sony HD(backup)
+http://tvserver3.roarzone.info:25461/live/free/roarzone/38.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Indian Hindi",Sony Sab
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="http://tv.thunderbd.com/assets/images/sonysab.png" group-title="Indian Hindi",Sony Sab HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/36.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="http://tv.thunderbd.com/assets/images/sonysab.png" group-title="Indian Hindi",Sony Sab HD (backup)
+http://tvserver3.roarzone.info:25461/live/free/roarzone/36.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="INDIA",Star Plus
 http://103.205.133.20/hls/chsp.m3u8
@@ -154,6 +160,9 @@ http://103.159.4.46:8080/ZEE-TV-HINDE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/220px-Zee_TV-2018.png" group-title="Indian Hindi",Zee TV(backup)
 http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/220px-Zee_TV-2018.png" group-title="Indian Hindi",Zee TV link2
+http://tvserver3.roarzone.info:25461/live/free/roarzone/40.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDIAN" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Hindi",Zee Bioskope
 http://210.210.155.35/session/bddddbbc-4503-11eb-8bcf-b6c087dabfa1/qwr9ew/s/s32/01.m3u8
@@ -241,6 +250,9 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Indian Hindi",HBO
 http://103.159.4.46:8080/HBO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" group-title="Indian Hindi",HBO HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/42.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/ZeeCafeIndia.png/200px-ZeeCafeIndia.png" group-title="Indian Hindi",Zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
@@ -483,6 +495,9 @@ http://103.205.133.20/hls/gaanbangla.m3u8
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288",Gaanbangla(backup)
 http://103.159.4.46:8080/GAN-BANGLA/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288",Gaanbangla link2
+http://iptvthunder.thunderbd.com/live/free/roarzone/58.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV
 http://103.147.182.221:8080/ABD-GTV/tracks-v1a1/mono.m3u8
 
@@ -644,3 +659,6 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 3
 http://172.16.29.28/hls/sports1.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 4
+http://iptvthunder.thunderbd.com/live/free/roarzone/102.m3u8

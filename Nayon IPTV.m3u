@@ -5,7 +5,7 @@ http://103.205.133.19/hls/chsj.m3u8
 http://103.205.133.21/hls/chsj.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20190224050806" group-title="Shows & Series",Star Jalsha SD (backup)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/bcbfccea2643d00.m3u8
+http://209.126.120.153/hls/chsj.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/30.m3u8
@@ -131,7 +131,7 @@ https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 http://103.205.133.19/hls/chs.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="http://tv.thunderbd.com/assets/images/sony.png" group-title="INDIA (New)",Sony HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/38.m3u8
+http://209.126.120.153/hls/chs.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="http://tv.thunderbd.com/assets/images/sony.png" group-title="INDIA (New)",Sony HD(backup)
 http://tvserver3.roarzone.info:25461/live/free/roarzone/38.m3u8
@@ -152,10 +152,13 @@ http://103.205.133.19/hls/chsp.m3u8
 http://103.159.4.46:8080/STAR-PLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="7S Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="INDIA",Star Plus HD link2
-http://103.153.175.254:8080/hls/stream38.m3u8
+http://209.126.120.153/hls/chsp.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Indian Hindi",Colors Hindi
 http://103.205.133.19/hls/chc.m3u8
+
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="Indian Hindi",Colors Hindi(backup)
+http://209.126.120.153/hls/chc.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/220px-Zee_TV-2018.png" group-title="Indian Hindi",Zee TV
 http://103.159.4.46:8080/ZEE-TV-HINDE/tracks-v1a1/mono.m3u8
@@ -175,6 +178,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/s1600/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="Indian Hindi",& TV
 http://103.205.133.19/hls/andtv.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://1.bp.blogspot.com/-GrNnchK2f5s/WEPX5r2ph5I/AAAAAAAAKvU/cxunO6HOWMI-gDTLBNBYClQ5emKhpnrhwCLcB/s1600/hoshiyar-sahi-waqt-sahi-kadam-mt-wiki.jpg" group-title="Indian Hindi",& TV(backup)
+http://209.126.120.153/hls/andtv.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg" group-title="Indian Hindi",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 
@@ -182,7 +188,7 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
 http://103.205.133.19/hls/andpicture.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Indian Hindi",And Pictures HD2
-http://103.153.175.254:8080/hls/stream14.m3u8
+http://209.126.120.153/hls/andpicture.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Indian Hindi",And Pictures HD(Ebox)
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/74.m3u8
@@ -485,6 +491,9 @@ http://103.205.133.19/hls/discoverykids.m3u8
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon",Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
 
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangladeshi",BTV
+http://209.126.120.153/hls/btv.m3u8
+
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangladeshi",BTV World
 http://103.205.133.19/hls/btvworld.m3u8
 
@@ -498,7 +507,7 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 http://103.159.4.46:8080/GAN-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288",Gaanbangla link2
-http://iptvthunder.thunderbd.com/live/free/roarzone/58.m3u8
+http://209.126.120.153/hls/gaanbangla.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV
 http://103.147.182.221:8080/ABD-GTV/tracks-v1a1/mono.m3u8
@@ -513,7 +522,7 @@ http://103.205.133.19/hls/atnbangla.m3u8
 http://103.159.4.46:8080/ATN-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (backup)
-http://103.153.175.254:8080/hls/stream17.m3u8
+http://209.126.120.153/hls/atnbangla.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
@@ -555,7 +564,7 @@ http://103.205.133.19/hls/banglavision.m3u8
 http://103.159.4.46:8080/BANGLAVISION-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="https://1.bp.blogspot.com/-bzFJd4rINCw/V5j6XBT2vUI/AAAAAAAAACk/d7SYrAOlcFUruR_cjMehLEKes4KJWXPKQCK4B/s320/bangla-vision-news.jpg" group-title="Bangla News",Banglavision(Ebox)
-http://103.49.168.171:8081/ebox/bd_banglavision/chunks.m3u8
+http://209.126.120.153/hls/banglavision.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24
 http://103.205.133.19/hls/channel24.m3u8
@@ -564,7 +573,7 @@ http://103.205.133.19/hls/channel24.m3u8
 http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladeshi",CHANNEL 24 link2
-http://103.153.175.254:8080/hls/stream22.m3u8
+http://209.126.120.153/hls/channel24.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi",Channel 9
 http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
@@ -627,7 +636,7 @@ http://103.49.168.171:8081/ebox/bd_dbc_news/chunks.m3u8
 http://103.205.133.19/hls/news24.m3u8
 
 #EXTINF:0tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangladeshi",News 24 link2
-http://103.159.4.46:8080/NEWS-24/tracks-v1a1/mono.m3u8
+http://209.126.120.153/hls/news24.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",Ekattor
 http://172.16.29.28/hls/sports3.m3u8
@@ -657,7 +666,7 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/T-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 2
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
+http://209.126.120.153/hls/tsports.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Titas sports" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/t-sports-150x150.jpg" group-title="Bangladeshi",T Sports HD link 3
 http://172.16.29.28/hls/sports1.m3u8

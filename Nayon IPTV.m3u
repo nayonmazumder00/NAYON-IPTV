@@ -11,7 +11,7 @@ http://209.126.120.153/hls/chsj.m3u8
 http://103.81.104.118/hls/stream31.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD link2
-http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="http://iboxbd.live/assets/images/starjalsha.png" group-title="Shows & Series",Star Jalsha HD (backup)
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
@@ -29,10 +29,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/455581e014
 http://103.81.104.118/hls/stream30.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD [IN] (2)" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="Shows & Series",Zee Bangla HD link2
-http://103.159.4.46:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Shows & Series",Zee Bangla chinema
-http://103.147.182.221:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Shows & Series",Zee Bangla chinema link2
 http://45.127.244.7:8080/hls/channel2.m3u8
@@ -41,7 +41,7 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 http://163.172.29.246:8081/globalbd/zeebanglacinema/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES
-http://103.159.4.46:8080/JALSHA-MOVIE/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/222?cb=20190810163545" group-title="Shows & Series",JALSHA MOVIES(backup)
 http://103.81.104.118/hls/stream27.m3u8
@@ -65,7 +65,7 @@ http://209.126.120.153/hls/colorsbangla.m3u8
 http://103.205.133.21/hls/colorsbangla.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD
-http://103.159.4.46:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f4c507e580a4d06dd4413c/1565808762000/066d4ac2d9632f6d63bdb6cf6ba066b2.jpg" group-title="Shows & Series",Colors-Bangla HD link2
 http://103.81.104.118/hls/stream28.m3u8
@@ -200,7 +200,7 @@ http://103.205.133.19/hls/andpicture.m3u8
 http://209.126.120.153/hls/andpicture.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/and-pictures-hd-logo.jpg" group-title="Indian Hindi",And Pictures HD(backup)
-http://103.81.104.118/hls/stream14.m3u8
+http://103.159.4.38:8080/MOVIE-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:24 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/100px-Sony_MAX_logo.svg.png" group-title="Indian Hindi",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
@@ -600,7 +600,7 @@ http://103.81.104.118/hls/stream22.m3u8
 http://209.126.120.153/hls/channel24.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi",Channel 9
-http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/BD-BANGLA-17/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Baangladeshi",Channel 9(backup)
 http://103.147.182.221:8080/ADB-CH9/tracks-v1a1/mono.m3u8
